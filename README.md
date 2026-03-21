@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Ruslan
+Backend developer & tech lead — 7+ years building production systems in **Go** and **PHP**.
 
-<!--
-**thumbrise/thumbrise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### What I do
+- High-load platforms: marketplace aggregators, e-commerce, voting systems
+- Event-driven architectures: Kafka consumers/producers, queue workers, idempotent processing
+- Observability & DevOps: Prometheus, Grafana, Loki, Jaeger, Docker, CI/CD, GitOps
+- Clean architecture, CQRS, domain separation, architectural testing
+- Query optimization, custom indexing (built a GIN-like faceted search index on Redis bitmaps)
+- RAG systems, AI agents with tool-use, LLM integrations
+- Team processes: code review culture, Git Flow, Semantic Release, onboarding & mentoring
 
-Here are some ideas to get you started:
+#### Stack
+Go · PHP/Laravel · PostgreSQL · MySQL · Redis · Kafka · gRPC · Docker · Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current activity
+- [autosolve](https://github.com/thumbrise/autosolve) — lightweight daemon that polls GitHub issues and dispatches AI agents to solve them automatically
+- [otelext](https://github.com/thumbrise/otelext) - reusable extensions for OpenTelemetry Go SDK
+
+#### Contact
+ruslan.kokoev.1999@gmail.com · telegram: @ruslan_kokoev
