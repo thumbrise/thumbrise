@@ -1,5 +1,5 @@
 ### Hi, I'm Ruslan
-Backend developer & tech lead — 7+ years building production systems in **Go** and **PHP**.
+Backend developer & tech lead — 6+ years building production systems in **Go** and **PHP**.
 
 #### What I do
 - High-load platforms: marketplace aggregators, e-commerce, voting systems
