@@ -20,4 +20,6 @@ Go · PHP/Laravel · PostgreSQL · MySQL · Redis · Kafka · gRPC · Docker · 
 - [otelext](https://github.com/thumbrise/otelext) - reusable extensions for OpenTelemetry Go SDK
 
 #### Contact
-ruslan.kokoev.1999@gmail.com · telegram: @ruslan_kokoev
+
+- ruslan.kokoev.1999@gmail.com
+- https://t.me/ruslan_kokoev
