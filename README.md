@@ -19,6 +19,9 @@ Go · PHP/Laravel · PostgreSQL · MySQL · Redis · Kafka · gRPC · Docker · 
 - [autosolve](https://github.com/thumbrise/autosolve) - lightweight daemon that polls GitHub issues and dispatches AI agents to solve them automatically
 - [otelext](https://github.com/thumbrise/otelext) - reusable extensions for OpenTelemetry Go SDK
 
+#### Open source Go tooling
+- https://thumbrise.github.io 
+
 #### Contact
 
 - ruslan.kokoev.1999@gmail.com
