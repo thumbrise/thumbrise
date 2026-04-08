@@ -10,6 +10,9 @@ Also NIH & Gaps researcher and opensource developer.
 - Clean architecture, CQRS, domain separation, architectural testing
 - Query optimization, custom indexing (built a GIN-like faceted search index on Redis bitmaps)
 - RAG systems, AI agents with tool-use, LLM integrations
+- Full architecture decision records (ADRs) and devlogs  
+- High-quality research on NIH factor and ecosystem gaps
+- Adversarial review: actively challenge assumptions in code reviews and architecture discussions
 - Team processes: code review culture, Git Flow, Semantic Release, onboarding & mentoring
 
 #### Stack
