@@ -1,5 +1,5 @@
 ### Hi, I'm Ruslan
-Backend developer & tech lead — building production systems in **Go** and **PHP**. Also NIG/Gaps researcher and opensource developer.
+Backend developer & tech lead — building production systems in **Go** and **PHP**. Also NIH & Gaps researcher and opensource developer.
 
 #### What I do
 - High-load platforms: marketplace aggregators, e-commerce, voting systems
