@@ -13,13 +13,7 @@ Backend developer & tech lead — 6+ years building production systems in **Go**
 #### Stack
 Go · PHP/Laravel · PostgreSQL · MySQL · Redis · Kafka · gRPC · Docker · Linux
 
-#### Current activity
-- [multimod](https://thumbrise.github.io/resilience/internals/multimod/) - zero-footgun multimodule go tool
-- [resilience](https://github.com/thumbrise/resilience) - zero-dependency composable resilience toolkit for Go with optional fundamental extensions
-- [autosolve](https://github.com/thumbrise/autosolve) - lightweight daemon that polls GitHub issues and dispatches AI agents to solve them automatically
-- [otelext](https://github.com/thumbrise/otelext) - reusable extensions for OpenTelemetry Go SDK
-
-#### Open source Go tooling
+#### Current activity is Open source Go tooling
 - https://thumbrise.github.io 
 
 #### Contact
