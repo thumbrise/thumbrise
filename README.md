@@ -10,8 +10,8 @@ My work is an ecosystem of tools born from real production pain, documented thro
 
 | Tool | Problem Solved | Artifacts |
 |------|----------------|-----------|
-| **[resilience](https://github.com/thumbrise/resilience)** | Go lacked a composable, zero-dependency resilience toolkit with a Go-native DSL. | [Devlogs](https://thumbrise.github.io/resilience/devlog/), [Adversarial Review](https://thumbrise.github.io/resilience/devlog/007-adversarial-architecture-review.html) |
-| **[multimod](https://github.com/thumbrise/multimod)** | Go multi-module monorepos have no standard release tooling (Go's missing `npm pack`). | [RFC](https://thumbrise.github.io/multimod/reference/rfc-001-ecosystem.html), [FAQ](https://thumbrise.github.io/multimod/reference/faq.html), [Devlog](https://thumbrise.github.io/multimod/devlog/) |
+| **[resilience](https://github.com/thumbrise/resilience)** | Go lacked a composable, zero-dependency resilience toolkit with a Go-native DSL. | [Devlogs](https://thumbrise.github.io/resilience/devlog/), [Adversarial Review](https://thumbrise.github.io/resilience/devlog/007-adversarial-architecture-review.html), [The "Do" Primitive](https://thumbrise.github.io/autosolve/devlog/012-resilience-do-vision.html) |
+| **[multimod](https://github.com/thumbrise/multimod)** | Go multi-module monorepos have no standard release tooling (Go's missing `npm pack`). | [RFC](https://thumbrise.github.io/multimod/reference/rfc-001-ecosystem.html), [FAQ](https://thumbrise.github.io/multimod/reference/faq.html), [Devlog](https://thumbrise.github.io/multimod/devlog/), [Gate vs Observation](https://thumbrise.github.io/multimod/devlog/002-gate-vs-observation.html) |
 | **[ghset](https://github.com/thumbrise/ghset)** | Copying GitHub repo settings was a 20-minute manual grind. Now it's one command. | [Devlog](https://thumbrise.github.io/ghset/devlog/) |
 
 ### 📝 The Methodology (How I Think)
@@ -19,7 +19,7 @@ My work is an ecosystem of tools born from real production pain, documented thro
 I externalize my thinking. Every significant decision is captured to create a lasting engineering culture.
 
 - **Adversarial Architecture Review**: A formal process (Skeptic, Implementor, Arbiter) to stress-test designs before a single line of code is written. ([Read the fight](https://thumbrise.github.io/resilience/devlog/007-adversarial-architecture-review.html))
-- **The Deathbook**: A public ledger of ecosystem gaps I've identified and closed. (but not published yet)
+- **The Deathbook**: A public ledger of ecosystem gaps I've identified and closed. (ask me about it — it's my living document of Go ecosystem gaps)
 - **Full devlogs & ADRs**: The complete story of "why" behind every tool. ([Start reading](https://thumbrise.github.io))
 
 ### 🛠️ Production Experience
