@@ -4,7 +4,7 @@
   
 My work is an ecosystem of tools born from real production pain, documented through RFCs, devlogs, and adversarial architecture reviews.  
   
-### The Ecosystem (My Public Portfolio)  
+### The Ecosystem
   
 | Tool | Problem Solved | Artifacts |  
 |------|----------------|-----------|  
@@ -45,5 +45,5 @@ Since 2019, I've been architecting backend systems in Go (and previously PHP).
   
 If you're facing ecosystem gaps, scaling engineering culture, or just want to discuss adversarial review over a virtual coffee.  
   
-- **Portfolio & Writing**: [thumbrise.github.io](https://thumbrise.github.io)  
+- **Website**: [thumbrise.github.io](https://thumbrise.github.io)  
 - **Contact**: [Email](mailto:ruslan.kokoev.1999@gmail.com) | [Telegram](https://t.me/ruslan_kokoev) | [LinkedIn](https://linkedin.com/in/ruslan-kokoev)
