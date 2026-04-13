@@ -1,8 +1,6 @@
-## Hi, I'm Ruslan  
+## Building open-source tools that close fundamental gaps in the Go ecosystem.  
   
-In production since 2019. Building open-source tools that close fundamental gaps in the Go ecosystem.  
-  
-**NIH & Gaps researcher. Open-source tooling author. Tech lead.**  
+**NIH & Gaps research. RFC, Proposes, Implementations**  
   
 My work is an ecosystem of tools born from real production pain, documented through RFCs, devlogs, and adversarial architecture reviews.  
   
