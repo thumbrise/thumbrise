@@ -9,7 +9,7 @@ My work is an ecosystem of tools born from real production pain, documented thro
 | Tool | Problem Solved | Artifacts |
 |------|----------------|-----------|
 | **[resilience](https://github.com/thumbrise/resilience)** | Go lacked a composable, zero-dependency resilience toolkit with a Go-native DSL. | [Devlogs](https://thumbrise.github.io/resilience/devlog/), [Adversarial Review](https://thumbrise.github.io/resilience/devlog/007-adversarial-architecture-review), [RFC](https://thumbrise.github.io/resilience/references/) |
-| **[gover](https://github.com/thumbrise/gover)** | Go lacked a composable governance CLI for project lifecycle — dev-state sync, versioning, release notes, cross-platform builds. No vendor lock-in. | [Devlogs](https://thumbrise.github.io/gover/devlog/), [RFC](https://thumbrise.github.io/gover/reference/) |
+| **[gover](https://github.com/thumbrise/gover)** | Go lacked composable release tooling — goreleaser/semantic-release are monoliths with paywalls on basic features. gover: unix-way subcommands, structured stdout, every step replaceable. | [Devlogs](https://thumbrise.github.io/gover/devlog/), [RFC](https://thumbrise.github.io/gover/reference/) |
 | **[autosolve](https://github.com/thumbrise/autosolve)** | Self-hosted daemon for AI-powered GitHub issue analysis with full OTEL observability. | [Devlogs](https://thumbrise.github.io/autosolve/devlog/) |
 | **[ghset](https://github.com/thumbrise/ghset)** | Declarative GitHub repository settings with drift detection. | [Docs](https://thumbrise.github.io/ghset/) |
 | **[otelext](https://github.com/thumbrise/otelext)** | Reusable OpenTelemetry Go SDK extensions. | [README](https://github.com/thumbrise/otelext) |
@@ -23,7 +23,7 @@ A ledger of ecosystem gaps. Every GAP gets an entry, every entry eventually gets
 
 Before going independent, I spent 3.5 years architecting backend systems in Go (and previously PHP). In production since 2019.
 
-- **Leadership**: Led a 6-person backend team, 2023-2025.
+- **Leadership**: Led a 12-person backend team, 2023-2025.
 - **Systems**: High-load marketplace, event-driven architecture, observability stack.
 - **Culture**: Introduced adversarial review, ADR processes, and semantic release workflows.
 
