@@ -13,6 +13,7 @@ My work is an ecosystem of tools born from real production pain, documented thro
 | **[autosolve](https://github.com/thumbrise/autosolve)** | Self-hosted daemon for AI-powered GitHub issue analysis with full OTEL observability. | [Devlogs](https://thumbrise.github.io/autosolve/devlog/) |
 | **[ghset](https://github.com/thumbrise/ghset)** | Declarative GitHub repository settings with drift detection. | [Docs](https://thumbrise.github.io/ghset/) |
 | **[otelext](https://github.com/thumbrise/otelext)** | Reusable OpenTelemetry Go SDK extensions. | [README](https://github.com/thumbrise/otelext) |
+| **[op](https://github.com/thumbrise/op)** | Transport-agnostic, language-agnostic application-layer protocol for describing operations. | [Devlogs](https://thumbrise.github.io/op/devlog/004-operations-protocol.html) |
 
 ### The Deathbook
 
