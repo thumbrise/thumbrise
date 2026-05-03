@@ -6,15 +6,12 @@ My work is an ecosystem of tools born from real production pain, documented thro
 
 ### The Ecosystem
 
-| Tool | Problem Solved | Artifacts |
+| Tool | Problem | Artifacts |
 |------|----------------|-----------|
 | **[op](https://github.com/thumbrise/op)** | Anything-agnostic operations protocol. For operations-driven future. | [Docs](https://thumbrise.github.io/op/) |
 | **[resilience](https://github.com/thumbrise/resilience)** | Go lacked a composable, zero-dependency resilience toolkit with a Go-native DSL. | [Devlogs](https://thumbrise.github.io/resilience/devlog/), [Adversarial Review](https://thumbrise.github.io/resilience/devlog/007-adversarial-architecture-review), [RFC](https://thumbrise.github.io/resilience/references/) |
 | **[gover](https://github.com/thumbrise/gover)** | Go lacked composable release tooling — goreleaser/semantic-release are monoliths with paywalls on basic features. gover: unix-way subcommands, structured stdout, every step replaceable. | [Devlogs](https://thumbrise.github.io/gover/devlog/), [RFC](https://thumbrise.github.io/gover/reference/) |
-| **[autosolve](https://github.com/thumbrise/autosolve)** | Self-hosted daemon for AI-powered GitHub issue analysis with full OTEL observability. | [Devlogs](https://thumbrise.github.io/autosolve/devlog/) |
 | **[ghset](https://github.com/thumbrise/ghset)** | Declarative GitHub repository settings with drift detection. | [Docs](https://thumbrise.github.io/ghset/) |
-| **[otelext](https://github.com/thumbrise/otelext)** | Reusable OpenTelemetry Go SDK extensions. | [README](https://github.com/thumbrise/otelext) |
-
 
 ### The Deathbook
 
