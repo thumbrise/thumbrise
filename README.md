@@ -1,26 +1,12 @@
-## Building open-source tools that close fundamental gaps in the software ecosystem.
+## Building open-source, closing gaps in the software ecosystem.
 
 **NIH & Gaps research. RFC, Proposes, Implementations**
 
-My work is an ecosystem of tools born from real production pain, documented through RFCs, devlogs, and adversarial architecture reviews.
-
-### The Ecosystem
-
-| Tool | Problem | Artifacts |
-|------|----------------|-----------|
-| **[op](https://github.com/thumbrise/op)** | Anything-agnostic operation protocol. For operations-driven future. | [Docs](https://thumbrise.github.io/op/) |
-| **[resilience](https://github.com/thumbrise/resilience)** | Go lacked a composable, zero-dependency resilience toolkit with a Go-native DSL. | [Devlogs](https://thumbrise.github.io/resilience/devlog/), [Adversarial Review](https://thumbrise.github.io/resilience/devlog/007-adversarial-architecture-review), [RFC](https://thumbrise.github.io/resilience/references/) |
-| **[gover](https://github.com/thumbrise/gover)** | Go lacked composable release tooling — goreleaser/semantic-release are monoliths with paywalls on basic features. gover: unix-way subcommands, structured stdout, every step replaceable. | [Devlogs](https://thumbrise.github.io/gover/devlog/), [RFC](https://thumbrise.github.io/gover/reference/) |
-| **[ghset](https://github.com/thumbrise/ghset)** | Declarative GitHub repository settings with drift detection. | [Docs](https://thumbrise.github.io/ghset/) |
-
-### The Deathbook
-
-A ledger of ecosystem gaps. Every GAP gets an entry, every entry eventually gets crossed out.
-[Open the Deathbook](https://thumbrise.github.io/deathbook.html)
+My work is an software ecosystem born from real production pain, documented through RFCs, devlogs, and adversarial architecture reviews.
 
 ### Background
 
-Before going independent, I spent 3.5 years architecting backend systems. In production since 2019.
+Making production since 2019.
 
 - **Leadership**: Led a 12-person backend team, 2023-2025.
 - **Systems**: High-load marketplace, event-driven architecture, observability stack.
