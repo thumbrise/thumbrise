@@ -12,8 +12,6 @@ Making production since 2019.
 - **Systems**: High-load marketplace, event-driven architecture, observability stack.
 - **Culture**: Introduced adversarial review, ADR processes, and semantic release workflows.
 
-**Stack**: Go, PHP, PostgreSQL, Redis, Kafka, Docker.
-
 ### Let's Talk
 
 If you're facing ecosystem gaps, scaling engineering culture, or just want to discuss adversarial review over a virtual coffee.
