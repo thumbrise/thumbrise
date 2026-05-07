@@ -1,4 +1,4 @@
-## Building open-source tools that close fundamental gaps in the Go ecosystem.
+## Building open-source tools that close fundamental gaps in the software ecosystem.
 
 **NIH & Gaps research. RFC, Proposes, Implementations**
 
@@ -20,13 +20,13 @@ A ledger of ecosystem gaps. Every GAP gets an entry, every entry eventually gets
 
 ### Background
 
-Before going independent, I spent 3.5 years architecting backend systems in Go (and previously PHP). In production since 2019.
+Before going independent, I spent 3.5 years architecting backend systems. In production since 2019.
 
 - **Leadership**: Led a 12-person backend team, 2023-2025.
 - **Systems**: High-load marketplace, event-driven architecture, observability stack.
 - **Culture**: Introduced adversarial review, ADR processes, and semantic release workflows.
 
-**Stack**: Go, PostgreSQL, Redis, Kafka, Docker.
+**Stack**: Go, PHP, PostgreSQL, Redis, Kafka, Docker.
 
 ### Let's Talk
 
