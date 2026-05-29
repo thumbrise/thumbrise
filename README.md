@@ -1,20 +1,8 @@
-## Building open-source, closing gaps in the software ecosystem.
+Open-source tools that systematically close gaps in the software ecosystem. The work combines NIH & Gaps research, formal RFCs, proposals, and production-grade implementations.
 
-**NIH & Gaps research. RFC, Proposes, Implementations**
+Since 2019, engineered high-load marketplace systems using event-driven architectures and deep observability. Led a backend team from 2023 to 2025, establishing adversarial review, ADR processes, and semantic release as cultural defaults.
 
-My work is an software ecosystem born from real production pain, documented through RFCs, devlogs, and adversarial architecture reviews.
+If you're navigating ecosystem gaps, scaling engineering culture, or want to discuss adversarial review over a virtual coffee, let's talk.
 
-### Background
-
-Making production since 2019.
-
-- **Leadership**: Led a 12-person backend team, 2023-2025.
-- **Systems**: High-load marketplace, event-driven architecture, observability stack.
-- **Culture**: Introduced adversarial review, ADR processes, and semantic release workflows.
-
-### Let's Talk
-
-If you're facing ecosystem gaps, scaling engineering culture, or just want to discuss adversarial review over a virtual coffee.
-
-- **Website**: [thumbrise.github.io](https://thumbrise.github.io)
-- **Contact**: [Email](mailto:ruslan.kokoev.1999@gmail.com) | [Telegram](https://t.me/ruslan_kokoev) | [LinkedIn](https://linkedin.com/in/ruslan-kokoev)
+**Website**: [thumbrise.github.io](https://thumbrise.github.io)  
+**Contact**: [Email](mailto:ruslan.kokoev.1999@gmail.com) | [Telegram](https://t.me/ruslan_kokoev)
